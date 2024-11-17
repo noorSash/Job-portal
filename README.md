@@ -34,15 +34,22 @@ Storage: Local  storage
 Installation :
 
 Prerequisites:
+
 PHP 8.1 or higher
+
 Composer
+
 MySQL
+
 Laravel 10.x or higher
 
 
 Usage:
 
+
 For Job Seekers: Register and complete your profile to start applying for jobs.
+
+
 For Employers: Register, post jobs, and manage job applications through the dashboard.
 
 
